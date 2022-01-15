@@ -4,8 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "Thanks for using"
+    "start": "node index.js",
+    "node .": "node run index.js"
   },
+  "repository": {
+    "type": "git",
+    "url" "git+https://github.com/djejsjksjejeiwkwnshehwjsndlalskejkksjej/kontol.git"
   "keywords": [],
   "author": "Xalbador",
   "dependencies": {
