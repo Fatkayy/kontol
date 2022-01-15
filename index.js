@@ -177,5 +177,5 @@ client.user.setActivity(` ${client.guilds.cache.size} servers! ┊K!help┊${cli
 console.log(`Successfully logined as ${client.user.tag}`)
 });
 
-client.login('OTMxNzA5NTU4OTcwMjg2MTYy.YeIYJQ.7bm5q72KEfMXnRz1IGMk7k4dPSw')
+client.login('OTI0MjU2MzE5NTU5NTY5NDQ4.Ycb6xg.ujNw9KGO1Qsqfo_Opw1XOhpQbsw')
 
