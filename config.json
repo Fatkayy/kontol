@@ -1,0 +1,25 @@
+{ 
+"bprefix": "K!", 
+
+"prefix": "K!",
+
+"developerID": "873128689330712577",
+
+"bot": "*Kayes*",
+
+"colors": "0x00000",
+
+
+"support": "https://discord.gg/yYcJ45wfGZ",
+
+"everyoneMention": false,
+"hostedBy": true,
+
+"YOUTUBE_API_KEY": "AIzaSyBh3IuBJGuNTYp70xeMSUpOBMmW2S5gFSA",
+  "SOUNDCLOUD_CLIENT_ID": "924256319559569448",
+  "MAX_PLAYLIST_SIZE": 100000,
+  "PRUNING": true,
+  "LOCALE": "en",
+  "STAY_TIME": 100,
+  "DEFAULT_VOLUME": 100
+}
